@@ -1,3 +1,4 @@
+# vartest_global.py
 a = 1
 def vartest():
     global a
